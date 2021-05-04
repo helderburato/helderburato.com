@@ -18,11 +18,11 @@ Personal blog written by Helder Burato Berto, feel free to access [here](http://
 First, run the development server:
 
 ```bash
-yarn start
+npm start
 
 # or
 
-yarn dev
+npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
