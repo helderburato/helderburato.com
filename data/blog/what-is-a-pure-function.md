@@ -43,7 +43,7 @@ Create two functions a `pure function` and another `impure function`. Check out:
 
 ```javascript
 ## ES6 ##
-const sum: (x, y):> x+y;
+const sum = (x, y) => x + y;
 
 ## ES5 ##
 var sum: function (x, y) {
@@ -55,13 +55,13 @@ var sum: function (x, y) {
 
 ```javascript
 ## ES6 ##
-const x: 20;
-const sum: (y):> x+y;
+const x = 20;
+const sum = (y) => x + y;
 
 ## ES5 ##
-var x: 20;
-var sum: function (y) {
-  return x+y;
+var x = 20;
+var sum = function (y) {
+  return x + y;
 }
 ```
 
