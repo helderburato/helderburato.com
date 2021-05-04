@@ -22,32 +22,38 @@ export default function About() {
             <h3 className="pt-4 pb-2 text-2xl font-bold leading-8 tracking-tight">
               {siteMetadata.author}
             </h3>
-            <div className="text-gray-500 dark:text-gray-400">Professor of Atmospheric Science</div>
-            <div className="text-gray-500 dark:text-gray-400">Stanford University</div>
+            <div className="text-gray-500 dark:text-gray-400">Brazilian Front End Developer</div>
+            <div className="text-gray-500 dark:text-gray-400">Living in Porto, Portugal</div>
             <div className="flex pt-6 space-x-3">
               <SocialIcon kind="mail" href={`mailto:${siteMetadata.email}`} />
               <SocialIcon kind="github" href={siteMetadata.github} />
-              <SocialIcon kind="facebook" href={siteMetadata.facebook} />
-              <SocialIcon kind="youtube" href={siteMetadata.youtube} />
               <SocialIcon kind="linkedin" href={siteMetadata.linkedin} />
               <SocialIcon kind="twitter" href={siteMetadata.twitter} />
             </div>
           </div>
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
             <p>
-              Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His
-              research interests includes complexity modelling of tailwinds, headwinds and
-              crosswinds.
+              I’m a software developer with over 10 years of experience in planning and developing
+              digital products.
             </p>
             <p>
-              He leads the clean energy group which develops 3D air pollution-climate models, writes
-              differential equation solvers, and manufactures titanium plated air ballons. In his
-              free time he bakes raspberry pi.
+              Currently, I’m a Senior Software Engineer - Front End at{' '}
+              <a href="https://farfetch.com" target="blank">
+                Farfetch
+              </a>
+              , a company dedicated to generating innovation in the luxury fashion segment.
             </p>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique
-              placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem
-              nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+              Solving problems with my software development skills is what inspires me and keeps me
+              in a constant search for knowledge.
+            </p>
+            <p>
+              I’m passionate about technologies such as JavaScript, HTML, CSS, and I’m familiar with
+              packages that use these technologies as a base.
+            </p>
+            <p>
+              Packages and tools come and go, but some concepts stay the same, and the concepts are
+              what matters most to me.
             </p>
           </div>
         </div>
