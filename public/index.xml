@@ -7,77 +7,117 @@
       <language>en-us</language>
       <managingEditor>helder.burato@gmail.com (Helder B. Berto)</managingEditor>
       <webMaster>helder.burato@gmail.com (Helder B. Berto)</webMaster>
-      <lastBuildDate>Tue, 12 Jan 2021 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 26 Feb 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://helderburato.com/index.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://helderburato.com/blog/introducing-tailwind-nextjs-starter-blog</guid>
-    <title>Introducing Tailwind Nexjs Starter Blog</title>
-    <link>https://helderburato.com/blog/introducing-tailwind-nextjs-starter-blog</link>
-    <description>Looking for a performant, out of the box template, with all the best in web technology to support your blogging needs? Checkout the Tailwind Nextjs Starter Blog template.</description>
-    <pubDate>Tue, 12 Jan 2021 00:00:00 GMT</pubDate>
+    <guid>https://helderburato.com/blog/upgrade-husky-to-latest-version</guid>
+    <title>Upgrade Husky to Latest Version</title>
+    <link>https://helderburato.com/blog/upgrade-husky-to-latest-version</link>
+    <description>How to upgrade Husky package to the latest version 5.x</description>
+    <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
     <author>helder.burato@gmail.com (Helder B. Berto)</author>
-    <category>next-js</category><category>tailwind</category><category>guide</category>
+    <category>git</category><category>bash</category><category>javascript</category>
   </item>
 
   <item>
-    <guid>https://helderburato.com/blog/guide-to-using-images-in-nextjs</guid>
-    <title>Images in Next.js</title>
-    <link>https://helderburato.com/blog/guide-to-using-images-in-nextjs</link>
-    <description>In this article we introduce adding images in the tailwind starter blog and the benefits and limitations of the next/image component.</description>
-    <pubDate>Wed, 11 Nov 2020 00:00:00 GMT</pubDate>
+    <guid>https://helderburato.com/blog/studying-software-development-with-videos-and-note-taking</guid>
+    <title>Studying Software Development with Videos and Note-Taking</title>
+    <link>https://helderburato.com/blog/studying-software-development-with-videos-and-note-taking</link>
+    <description>On this article, I'm going to share my process of studying software development with videos and note-taking.</description>
+    <pubDate>Wed, 17 Feb 2021 00:00:00 GMT</pubDate>
     <author>helder.burato@gmail.com (Helder B. Berto)</author>
-    <category>next js</category><category>guide</category>
+    <category>misc</category><category>learn</category>
   </item>
 
   <item>
-    <guid>https://helderburato.com/blog/deriving-ols-estimator</guid>
-    <title>Deriving the OLS Estimator</title>
-    <link>https://helderburato.com/blog/deriving-ols-estimator</link>
-    <description>How to derive the OLS Estimator with matrix notation and a tour of math typesetting using markdown with the help of KaTeX.</description>
-    <pubDate>Sat, 16 Nov 2019 00:00:00 GMT</pubDate>
+    <guid>https://helderburato.com/blog/how-to-implement-stack-data-structure-in-javascript</guid>
+    <title>How to Implement Stack Data Structure in JavaScript</title>
+    <link>https://helderburato.com/blog/how-to-implement-stack-data-structure-in-javascript</link>
+    <description>On this article, I'll show how to implement `Stack` data structure in JavaScript focusing on how simple it is and how it works.</description>
+    <pubDate>Sun, 06 Dec 2020 00:00:00 GMT</pubDate>
     <author>helder.burato@gmail.com (Helder B. Berto)</author>
-    <category>next js</category><category>math</category><category>ols</category>
+    <category>javascript</category><category>data-structure</category>
   </item>
 
   <item>
-    <guid>https://helderburato.com/blog/github-markdown-guide</guid>
-    <title>Markdown Guide</title>
-    <link>https://helderburato.com/blog/github-markdown-guide</link>
-    <description>Markdown cheatsheet for all your blogging needs - headers, lists, images, tables and more! An illustrated guide based on Github Flavored Markdown.</description>
-    <pubDate>Fri, 11 Oct 2019 00:00:00 GMT</pubDate>
+    <guid>https://helderburato.com/blog/patterns-for-writing-better-git-commit-messages</guid>
+    <title>Patterns for Writing Better Git Commit Messages</title>
+    <link>https://helderburato.com/blog/patterns-for-writing-better-git-commit-messages</link>
+    <description>It's an opinionated guide I keep with me to consult every time I catch myself in doubt if I'm writing nice commit messages with context of what I'm delivering.</description>
+    <pubDate>Thu, 10 Sep 2020 00:00:00 GMT</pubDate>
     <author>helder.burato@gmail.com (Helder B. Berto)</author>
-    <category>github</category><category>guide</category>
+    <category>git</category>
   </item>
 
   <item>
-    <guid>https://helderburato.com/blog/the-time-machine</guid>
-    <title>The Time Machine</title>
-    <link>https://helderburato.com/blog/the-time-machine</link>
-    <description>The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us. His pale grey eyes shone and twinkled, and his usually pale face was flushed and animated...</description>
-    <pubDate>Wed, 15 Aug 2018 00:00:00 GMT</pubDate>
+    <guid>https://helderburato.com/blog/how-to-avoid-array-mutation</guid>
+    <title>How to Avoid Array Mutation</title>
+    <link>https://helderburato.com/blog/how-to-avoid-array-mutation</link>
+    <description>In this article, I'll focus on showing how to add, edit and remove items in an array causing mutation and non-mutation ways.</description>
+    <pubDate>Thu, 02 Apr 2020 00:00:00 GMT</pubDate>
     <author>helder.burato@gmail.com (Helder B. Berto)</author>
-    <category>writings</category><category>book</category><category>reflection</category>
+    <category>javascript</category><category>functional-programming</category>
   </item>
 
   <item>
-    <guid>https://helderburato.com/blog/pictures-of-canada</guid>
-    <title>O Canada</title>
-    <link>https://helderburato.com/blog/pictures-of-canada</link>
-    <description>The scenic lands of Canada featuring maple leaves, snow-capped mountains, turquoise lakes and Toronto. Take in the sights in this photo gallery exhibition and see how easy it is to replicate with some MDX magic and tailwind classes.</description>
-    <pubDate>Sat, 15 Jul 2017 00:00:00 GMT</pubDate>
+    <guid>https://helderburato.com/blog/write-your-own-dotfiles</guid>
+    <title>Write your own Dotfiles</title>
+    <link>https://helderburato.com/blog/write-your-own-dotfiles</link>
+    <description>Sometime ago I need to format my Mac twice times in the same week and it's was very painful to configure all the things.</description>
+    <pubDate>Sun, 08 Mar 2020 00:00:00 GMT</pubDate>
     <author>helder.burato@gmail.com (Helder B. Berto)</author>
-    <category>holiday</category><category>canada</category><category>images</category>
+    <category>dotfiles</category><category>setup</category>
   </item>
 
   <item>
-    <guid>https://helderburato.com/blog/code-sample</guid>
-    <title>Sample .md file</title>
-    <link>https://helderburato.com/blog/code-sample</link>
-    <description>Example of a markdown file with code blocks and syntax highlighting</description>
-    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <guid>https://helderburato.com/blog/understanding-concepts-of-functional-programming-with-javascript</guid>
+    <title>Understanding concepts of functional programming with JavaScript</title>
+    <link>https://helderburato.com/blog/understanding-concepts-of-functional-programming-with-javascript</link>
+    <description>Let's understand the fundamental concepts of functional programming using JavaScript language.</description>
+    <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
     <author>helder.burato@gmail.com (Helder B. Berto)</author>
-    <category>markdown</category><category>code</category><category>features</category>
+    <category>javascript</category><category>functional-programming</category>
+  </item>
+
+  <item>
+    <guid>https://helderburato.com/blog/exploring-the-bind-method-in-javascript</guid>
+    <title>Exploring the bind method in JavaScript</title>
+    <link>https://helderburato.com/blog/exploring-the-bind-method-in-javascript</link>
+    <description>In this article we will cover the "bind" functionality that makes up the JavaScript language.</description>
+    <pubDate>Mon, 24 Jun 2019 00:00:00 GMT</pubDate>
+    <author>helder.burato@gmail.com (Helder B. Berto)</author>
+    <category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://helderburato.com/blog/decoding-proxies-in-javascript</guid>
+    <title>Decoding Proxies in JavaScript</title>
+    <link>https://helderburato.com/blog/decoding-proxies-in-javascript</link>
+    <description>In this post we will approach the object Proxy included in the version ECMAScript 6, creating the possibility of interception and making possible creation of customized methods.</description>
+    <pubDate>Sat, 22 Jun 2019 00:00:00 GMT</pubDate>
+    <author>helder.burato@gmail.com (Helder B. Berto)</author>
+    <category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://helderburato.com/blog/simplify-javascript-arrays</guid>
+    <title>Simplify JavaScript Arrays</title>
+    <link>https://helderburato.com/blog/simplify-javascript-arrays</link>
+    <description>In this post we'll cover some methods of JavaScript that will make it easier for you to work with arrays and write more elegant codes.</description>
+    <pubDate>Tue, 18 Jun 2019 00:00:00 GMT</pubDate>
+    <author>helder.burato@gmail.com (Helder B. Berto)</author>
+    <category>javascript</category><category>data-structure</category>
+  </item>
+
+  <item>
+    <guid>https://helderburato.com/blog/what-is-a-pure-function</guid>
+    <title>What is a Pure Function?</title>
+    <link>https://helderburato.com/blog/what-is-a-pure-function</link>
+    <description>Whenever you are told about pure functions, keep the following in mind.</description>
+    <pubDate>Sun, 16 Jun 2019 00:00:00 GMT</pubDate>
+    <author>helder.burato@gmail.com (Helder B. Berto)</author>
+    <category>javascript</category><category>functional-programming</category>
   </item>
 
     </channel>
