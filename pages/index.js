@@ -14,11 +14,9 @@ export default function Home({ posts }) {
   return (
     <>
       <PageSeo title="Home" description={siteMetadata.description} url={siteMetadata.siteUrl} />
-      <div className="pt-6 pb-8 space-y-2 md:space-y-5">
-        <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-          {siteMetadata.description}
-        </p>
-      </div>
+      <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
+        {siteMetadata.description}
+      </p>
       <ListLayout posts={posts} />
     </>
   )
