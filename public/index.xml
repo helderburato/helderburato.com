@@ -2,8 +2,8 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Helder Burato Berto</title>
-      <link>https://helderburato.com/blog</link>
-      <description>A blog by a Front End Developer passionate to share knowledge and thoughts about software development.</description>
+      <link>https://helderburato.com</link>
+      <description>Hey there, I'm Helder Burato Berto. I'm a Brazilian Front End Developer living in Porto, Portugal.</description>
       <language>en-us</language>
       <managingEditor>helder.burato@gmail.com (Helder B. Berto)</managingEditor>
       <webMaster>helder.burato@gmail.com (Helder B. Berto)</webMaster>
@@ -11,9 +11,9 @@
       <atom:link href="https://helderburato.com/index.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://helderburato.com/blog/upgrade-husky-to-latest-version</guid>
+    <guid>https://helderburato.com/upgrade-husky-to-latest-version</guid>
     <title>Upgrade Husky to Latest Version</title>
-    <link>https://helderburato.com/blog/upgrade-husky-to-latest-version</link>
+    <link>https://helderburato.com/upgrade-husky-to-latest-version</link>
     <description>How to upgrade Husky package to the latest version 5.x</description>
     <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
     <author>helder.burato@gmail.com (Helder B. Berto)</author>
@@ -21,9 +21,9 @@
   </item>
 
   <item>
-    <guid>https://helderburato.com/blog/studying-software-development-with-videos-and-note-taking</guid>
+    <guid>https://helderburato.com/studying-software-development-with-videos-and-note-taking</guid>
     <title>Studying Software Development with Videos and Note-Taking</title>
-    <link>https://helderburato.com/blog/studying-software-development-with-videos-and-note-taking</link>
+    <link>https://helderburato.com/studying-software-development-with-videos-and-note-taking</link>
     <description>On this article, I'm going to share my process of studying software development with videos and note-taking.</description>
     <pubDate>Wed, 17 Feb 2021 00:00:00 GMT</pubDate>
     <author>helder.burato@gmail.com (Helder B. Berto)</author>
@@ -31,9 +31,9 @@
   </item>
 
   <item>
-    <guid>https://helderburato.com/blog/how-to-implement-stack-data-structure-in-javascript</guid>
+    <guid>https://helderburato.com/how-to-implement-stack-data-structure-in-javascript</guid>
     <title>How to Implement Stack Data Structure in JavaScript</title>
-    <link>https://helderburato.com/blog/how-to-implement-stack-data-structure-in-javascript</link>
+    <link>https://helderburato.com/how-to-implement-stack-data-structure-in-javascript</link>
     <description>On this article, I'll show how to implement `Stack` data structure in JavaScript focusing on how simple it is and how it works.</description>
     <pubDate>Sun, 06 Dec 2020 00:00:00 GMT</pubDate>
     <author>helder.burato@gmail.com (Helder B. Berto)</author>
@@ -41,9 +41,9 @@
   </item>
 
   <item>
-    <guid>https://helderburato.com/blog/patterns-for-writing-better-git-commit-messages</guid>
+    <guid>https://helderburato.com/patterns-for-writing-better-git-commit-messages</guid>
     <title>Patterns for Writing Better Git Commit Messages</title>
-    <link>https://helderburato.com/blog/patterns-for-writing-better-git-commit-messages</link>
+    <link>https://helderburato.com/patterns-for-writing-better-git-commit-messages</link>
     <description>It's an opinionated guide I keep with me to consult every time I catch myself in doubt if I'm writing nice commit messages with context of what I'm delivering.</description>
     <pubDate>Thu, 10 Sep 2020 00:00:00 GMT</pubDate>
     <author>helder.burato@gmail.com (Helder B. Berto)</author>
@@ -51,9 +51,9 @@
   </item>
 
   <item>
-    <guid>https://helderburato.com/blog/how-to-avoid-array-mutation</guid>
+    <guid>https://helderburato.com/how-to-avoid-array-mutation</guid>
     <title>How to Avoid Array Mutation</title>
-    <link>https://helderburato.com/blog/how-to-avoid-array-mutation</link>
+    <link>https://helderburato.com/how-to-avoid-array-mutation</link>
     <description>In this article, I'll focus on showing how to add, edit and remove items in an array causing mutation and non-mutation ways.</description>
     <pubDate>Thu, 02 Apr 2020 00:00:00 GMT</pubDate>
     <author>helder.burato@gmail.com (Helder B. Berto)</author>
@@ -61,9 +61,9 @@
   </item>
 
   <item>
-    <guid>https://helderburato.com/blog/write-your-own-dotfiles</guid>
+    <guid>https://helderburato.com/write-your-own-dotfiles</guid>
     <title>Write your own Dotfiles</title>
-    <link>https://helderburato.com/blog/write-your-own-dotfiles</link>
+    <link>https://helderburato.com/write-your-own-dotfiles</link>
     <description>Sometime ago I need to format my Mac twice times in the same week and it's was very painful to configure all the things.</description>
     <pubDate>Sun, 08 Mar 2020 00:00:00 GMT</pubDate>
     <author>helder.burato@gmail.com (Helder B. Berto)</author>
@@ -71,9 +71,9 @@
   </item>
 
   <item>
-    <guid>https://helderburato.com/blog/understanding-concepts-of-functional-programming-with-javascript</guid>
+    <guid>https://helderburato.com/understanding-concepts-of-functional-programming-with-javascript</guid>
     <title>Understanding concepts of functional programming with JavaScript</title>
-    <link>https://helderburato.com/blog/understanding-concepts-of-functional-programming-with-javascript</link>
+    <link>https://helderburato.com/understanding-concepts-of-functional-programming-with-javascript</link>
     <description>Let's understand the fundamental concepts of functional programming using JavaScript language.</description>
     <pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate>
     <author>helder.burato@gmail.com (Helder B. Berto)</author>
@@ -81,9 +81,9 @@
   </item>
 
   <item>
-    <guid>https://helderburato.com/blog/exploring-the-bind-method-in-javascript</guid>
+    <guid>https://helderburato.com/exploring-the-bind-method-in-javascript</guid>
     <title>Exploring the bind method in JavaScript</title>
-    <link>https://helderburato.com/blog/exploring-the-bind-method-in-javascript</link>
+    <link>https://helderburato.com/exploring-the-bind-method-in-javascript</link>
     <description>In this article we will cover the "bind" functionality that makes up the JavaScript language.</description>
     <pubDate>Mon, 24 Jun 2019 00:00:00 GMT</pubDate>
     <author>helder.burato@gmail.com (Helder B. Berto)</author>
@@ -91,9 +91,9 @@
   </item>
 
   <item>
-    <guid>https://helderburato.com/blog/decoding-proxies-in-javascript</guid>
+    <guid>https://helderburato.com/decoding-proxies-in-javascript</guid>
     <title>Decoding Proxies in JavaScript</title>
-    <link>https://helderburato.com/blog/decoding-proxies-in-javascript</link>
+    <link>https://helderburato.com/decoding-proxies-in-javascript</link>
     <description>In this post we will approach the object Proxy included in the version ECMAScript 6, creating the possibility of interception and making possible creation of customized methods.</description>
     <pubDate>Sat, 22 Jun 2019 00:00:00 GMT</pubDate>
     <author>helder.burato@gmail.com (Helder B. Berto)</author>
@@ -101,9 +101,9 @@
   </item>
 
   <item>
-    <guid>https://helderburato.com/blog/simplify-javascript-arrays</guid>
+    <guid>https://helderburato.com/simplify-javascript-arrays</guid>
     <title>Simplify JavaScript Arrays</title>
-    <link>https://helderburato.com/blog/simplify-javascript-arrays</link>
+    <link>https://helderburato.com/simplify-javascript-arrays</link>
     <description>In this post we'll cover some methods of JavaScript that will make it easier for you to work with arrays and write more elegant codes.</description>
     <pubDate>Tue, 18 Jun 2019 00:00:00 GMT</pubDate>
     <author>helder.burato@gmail.com (Helder B. Berto)</author>
@@ -111,9 +111,9 @@
   </item>
 
   <item>
-    <guid>https://helderburato.com/blog/what-is-a-pure-function</guid>
+    <guid>https://helderburato.com/what-is-a-pure-function</guid>
     <title>What is a Pure Function?</title>
-    <link>https://helderburato.com/blog/what-is-a-pure-function</link>
+    <link>https://helderburato.com/what-is-a-pure-function</link>
     <description>Whenever you are told about pure functions, keep the following in mind.</description>
     <pubDate>Sun, 16 Jun 2019 00:00:00 GMT</pubDate>
     <author>helder.burato@gmail.com (Helder B. Berto)</author>

@@ -5,11 +5,9 @@ import { BlogSeo } from '@/components/SEO'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 
-const editUrl = (fileName) => `${siteMetadata.siteRepo}/blob/master/data/blog/${fileName}`
+const editUrl = (fileName) => `${siteMetadata.siteRepo}/blob/main/data/blog/${fileName}`
 const discussUrl = (slug) =>
-  `https://mobile.twitter.com/search?q=${encodeURIComponent(
-    `${siteMetadata.siteUrl}/blog/${slug}`
-  )}`
+  `https://mobile.twitter.com/search?q=${encodeURIComponent(`${siteMetadata.siteUrl}/${slug}`)}`
 
 const postDateTemplate = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
 
@@ -97,7 +95,7 @@ export default function PostLayout({ children, frontMatter, next, prev }) {
                           Previous Article
                         </h2>
                         <div className="text-blue-500 hover:text-blue-600 dark:hover:text-blue-400">
-                          <Link href={`/blog/${prev.slug}`}>{prev.title}</Link>
+                          <Link href={`/${prev.slug}`}>{prev.title}</Link>
                         </div>
                       </div>
                     )}
@@ -107,7 +105,7 @@ export default function PostLayout({ children, frontMatter, next, prev }) {
                           Next Article
                         </h2>
                         <div className="text-blue-500 hover:text-blue-600 dark:hover:text-blue-400">
-                          <Link href={`/blog/${next.slug}`}>{next.title}</Link>
+                          <Link href={`/${next.slug}`}>{next.title}</Link>
                         </div>
                       </div>
                     )}
@@ -116,7 +114,7 @@ export default function PostLayout({ children, frontMatter, next, prev }) {
               </div>
               <div className="pt-4 xl:pt-8">
                 <Link
-                  href="/blog"
+                  href="/"
                   className="text-blue-500 hover:text-blue-600 dark:hover:text-blue-400"
                 >
                   &larr; Back to home
