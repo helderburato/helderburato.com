@@ -63,7 +63,10 @@ console.log(likeCarrots(isCat(animals)))
 Let's create an automation to previous example:
 
 ```js
-const compose = (...fns) => (x) => fns.reduceRight((v, fn) => fn(v), x)
+const compose =
+  (...fns) =>
+  (x) =>
+    fns.reduceRight((v, fn) => fn(v), x)
 
 console.log(compose(isDog, likeCarrots)(animals))
 // => [{ name: "Max", species: "dog", likes: ["bones", "carrots" ]}]
@@ -79,7 +82,10 @@ _Note: we've got the same results with a much more readable and cleaner code._
 Normally, when want to execute sequentially, so we use the `pipe` method like the following example:
 
 ```js
-const pipe = (...fns) => (x) => fns.reduce((v, fn) => fn(v), x)
+const pipe =
+  (...fns) =>
+  (x) =>
+    fns.reduce((v, fn) => fn(v), x)
 
 console.log(pipe(isDog, likeCarrots)(animals))
 // => [{ name: "Max", species: "dog", likes: ["bones", "carrots" ]}]
